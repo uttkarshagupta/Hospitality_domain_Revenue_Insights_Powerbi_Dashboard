@@ -1,4 +1,3 @@
-# Hospitality_domain_Revenue_Insights_Powerbi_Dashboard
 # Hospitality Domain Revenue Insights Data Analytics Project
 
 ## Introduction
@@ -66,5 +65,8 @@ Some of the key insights derived from the analysis include:
 - **Marketing Strategies**: Recommendations for targeted marketing campaigns based on customer segmentation.
 
 ## Conclusion
-This project demonstrates the application of data analytics and visualization in the hospitality industry to derive revenue insights. By analyzing and visualizing the data, we can make informed decisions to optimize revenue management practices. The insights gained from this project can help hospitality businesses improve their strategic planning, marketing efforts, and overall customer satisfaction.
+This project demonstrates the application of data analytics and visualization in the hospitality industry to derive revenue insights. By analyzing and visualizing the data, we can make informed decisions to optimize revenue management practices. The insights gained from this project can help hospitality businesses improve their strategic planning, marketing efforts, and overall customer satisfaction. Clone the repository and open the '.pbix' file in Power BI Desktop to explore the interactive visualizations and gain valuable business insights.
+
+![image](https://github.com/user-attachments/assets/4e9dca04-bbbc-4fbe-93a8-e08fea094982)
+
 
