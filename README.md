@@ -68,23 +68,3 @@ Some of the key insights derived from the analysis include:
 ## Conclusion
 This project demonstrates the application of data analytics and visualization in the hospitality industry to derive revenue insights. By analyzing and visualizing the data, we can make informed decisions to optimize revenue management practices. The insights gained from this project can help hospitality businesses improve their strategic planning, marketing efforts, and overall customer satisfaction.
 
-## Repository Structure
-- `data/`: Contains the raw and cleaned datasets.
-- `reports/`: Contains screenshots and details of the Power BI dashboard.
-- `README.md`: Project documentation.
-
-## Getting Started
-To get started with this project, follow these steps:
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/your-username/hospitality-revenue-insights.git
-    ```
-2. **Open Power BI** and import the dataset from the `data/` directory.
-3. **Create the visualizations** as described in the dashboard sections.
-4. **Save and publish** your Power BI dashboard.
-
-## Acknowledgements
-Special thanks to [YouTube Video](https://youtu.be/tT4V7zguCnc?si=HKXH4rgQbfm-VV50) for inspiring this project and providing guidance on the analysis process.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
